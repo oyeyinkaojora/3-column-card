@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oyeyinkaojora/3-column-cardm)
-- Live Site URL: [Add live site URL here](https://xenodochial-heisenberg-017691.netlify.app/)
+- Solution URL: [https://github.com/oyeyinkaojora/3-column-card]
+- Live Site URL: [https://xenodochial-heisenberg-017691.netlify.app/]
 
 ### Built with
 
@@ -46,14 +46,13 @@ Learnt how to build a mobile first card with gap
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=5DAvEEKfTEE) - This helped me on how to achieve the mobile first view
+- [https://www.youtube.com/watch?v=5DAvEEKfTEE] - This helped me on how to achieve the mobile first view
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@oyeyinkaojora](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/oyeyinkaojora)](
+- Twitter - [https://www.twitter.com/oyeyinkaojora]
 
 
